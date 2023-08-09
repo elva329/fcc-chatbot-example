@@ -38,5 +38,5 @@
 }
 
 .react-chatbot-kit-chat-inner-container {
-  height: 380px;
+  height: 380px !important;
 }
