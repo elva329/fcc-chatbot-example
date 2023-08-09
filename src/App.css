@@ -54,3 +54,6 @@
 .react-chatbot-kit-chat-input {
   border-bottom-left-radius: unset !important
 }
+.react-chatbot-kit-chat-message-container {
+  height: unset !important;
+}
