@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+
+.react-chatbot-kit-chat-inner-container {
+  height: 380px;
+}
