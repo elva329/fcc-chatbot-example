@@ -36,7 +36,21 @@
     transform: rotate(360deg);
   }
 }
-
+.react-chatbot-kit-chat-container {
+  width: 100vw !important;
+  height: 100vh !important;
+}
 .react-chatbot-kit-chat-inner-container {
-  height: 380px !important;
+  width: 100vw !important;
+  height: 100vh !important;
+}
+
+.react-chatbot-kit-chat-header {
+  border-radius: unset !important;
+}
+.react-chatbot-kit-chat-bot-message {
+  margin-left: unset !important;
+}
+.react-chatbot-kit-chat-input {
+  border-bottom-left-radius: unset !important
 }
