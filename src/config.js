@@ -4,7 +4,7 @@ import { createChatBotMessage } from "react-chatbot-kit";
 // import LinkList from "./components/LinkList/LinkList";
 
 const config = {
-  botName: "LearningBot",
+  botName: "Chatbot",
   initialMessages: [
     createChatBotMessage(
       "Hi, welcome to Elva's personal portfolio website, what can I do for you ?",
